@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNixv/E5BMP76uWCSGfCYFzt3vlpx9fDlaohQzHsq5bF0Cd5cqaKp75EeQIUsBQ1hJv4VtzKqLZ1avvu2ONbHA==",
+  "success": true,
+  "projectFilePath": "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/DdosSimulation.csproj",
+  "expectedPackageFiles": [
+    "/home/faraklit/.nuget/packages/aspnetcoreratelimit/3.2.2/aspnetcoreratelimit.3.2.2.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.9/microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.9/microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/microsoft.extensions.options/3.1.9/microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "/home/faraklit/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

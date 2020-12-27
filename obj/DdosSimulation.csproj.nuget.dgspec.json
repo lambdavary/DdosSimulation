@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/DdosSimulation.csproj": {}
+  },
+  "projects": {
+    "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/DdosSimulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/DdosSimulation.csproj",
+        "projectName": "DdosSimulation",
+        "projectPath": "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/DdosSimulation.csproj",
+        "packagesPath": "/home/faraklit/.nuget/packages/",
+        "outputPath": "/home/faraklit/RiderProjects/DdosSimulation/DdosSimulation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faraklit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

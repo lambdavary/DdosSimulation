@@ -1,0 +1,78 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AspNetCoreRateLimit" Version="3.2.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\71%201.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\agu-bilgisayar-muhendisligi.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\agufuarlar.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\animations.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\bootstrap.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\bootstrap.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\CagriGungor.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\CagriGungor2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cagrihoca.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cagrihocadeneme.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cagrihoca_002.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_5g.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_ai.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_blockchain.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_intern%201.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_job.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_mobile.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\cmp_project%201.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\css.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\css_002.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\custom.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\endustri%20yarismathumb.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\extralayers.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\font-awesome.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\fontello.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\ga.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\image2.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\IMG_4051.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\isotope.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_002.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_003.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_004.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_005.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_006.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_007.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\jquery_008.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\logo_footer.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\magnific-popup.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\memnuniyettthumb.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\mezun%20thum.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\modernizr.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\owl.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\owl.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\Screen%20Shot%202020-01-07%20at%2009.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\Screen%2520Shot%25202020-01-07%2520at%252009_002.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\settings.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\Slider6.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\style.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\Teknofest_2020.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\template.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\tubitak%201.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\TV-thumb.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\WhatsApp%20Image%202020-01-06%20at%2022.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\WhatsApp%20Image%202020-01-13%20at%2020.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\WhatsApp%20Image%202020-07-16%20at%2011.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\WhatsApp%20Image%202020-07-16%20at%2011.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\index_files\zoom.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\css\main.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\css\util.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\images\icons\favicon.ico" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\index.php" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\js\main.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\src\start.sh" />
+    </ItemGroup>
+
+</Project>
